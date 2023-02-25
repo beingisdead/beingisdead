@@ -2,6 +2,6 @@
 
 Amateur dev, creator of Skerm
 
-Contact me!\n
-ben#3838\n
-@ochemfiend\n
+Contact me!<br>
+ben#3838<br>
+@ochemfiend<br>
